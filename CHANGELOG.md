@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- next-header -->
 
 ## [Unreleased] - ReleaseDate
+### Added
+- Feature `owo-colors` (enabled by default) to control whether `owo_colors` gets re-exported.
 
 ## [0.6.1] - 2022-02-24
 ### Changed
